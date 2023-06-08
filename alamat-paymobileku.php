@@ -1,1 +1,1 @@
-document.write('Alamat : Jl. T. Panglima Polem, Kota Banda Aceh<br/>');
+document.write('081231825999<br/>');document.write('082247084999<br/>');document.write('085360205999<br/>');document.write('085370205999<br/>');document.write('085382510999<br/>');document.write('085606092999<br/>');document.write('085755743999<br/>');document.write('085760002999<br/>');
