@@ -1,0 +1,1 @@
+document.write('Alamat : Jl. T. Panglima Polem, Kota Banda Aceh<br/>');
